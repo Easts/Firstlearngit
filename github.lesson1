@@ -1,0 +1,12 @@
+$ git config --global user.name "your name"
+$ git config --global user.email "your_email@youremail.com"
+
+$ git clone username@host:/path/to/repository
+
+一定要从自己的账号下clone仓库，这样你才能推送修改。
+
+  在GitHub上，可以任意Fork开源仓库；
+
+  自己拥有Fork后的仓库的读写权限；
+
+  可以推送pull request给官方仓库来贡献代码。
